@@ -1,4 +1,4 @@
-# task1.py Python Script
+# `task1.py` Python Script
 
 This is a Python script for managing product orders with discount calculations, gift wrapping, and shipping fees.
 
@@ -14,7 +14,7 @@ This is a Python script for managing product orders with discount calculations, 
 2. Run the script:
 
     ```bash
-    python script.py
+    python task1.py
     ```
 
 3. Follow the prompts to enter the quantity and gift wrapping details for each product.
@@ -29,7 +29,7 @@ This is a Python script for managing product orders with discount calculations, 
 - If the total quantity is over 30 and any product has a quantity over 15, a 50% tiered discount is applied to each product exceeding 30 units.
 
 
-# task2.js JavaScript Script
+# `task1.js` JavaScript Script
 
 This is a JavaScript script for managing product orders with discount calculations, gift wrapping, and shipping fees.
 
@@ -42,10 +42,10 @@ This is a JavaScript script for managing product orders with discount calculatio
     cd your-repository
     ```
 
-2. Open the `index.html` file in a web browser:
+2. Run the script:
 
     ```bash
-    open index.html
+    node task1.js
     ```
 
 3. Follow the prompts to enter the quantity and gift wrapping details for each product.
