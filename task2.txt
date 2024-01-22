@@ -1,0 +1,27 @@
+1. Why do you like to join as a Software developer?
+Answer:  As a software developer, I am inherently drawn to solving complex problems through the application of logical and creative thinking. Zennode's reputation for tackling challenging projects aligns perfectly with my passion for overcoming obstacles and finding effective solutions. I am eager to contribute my problem-solving skills to the dynamic environment at Zennode.
+
+2. List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+Answer: Three tools that inspires me are VS Code, Google colab and chatGPT.
+I am inspired by Visual Studio Code's ability to seamlessly support a wide array of programming languages. The intuitive interface and extensive marketplace extensions make it an indispensable tool for developers. Its versatility allows me to transition seamlessly between different languages and frameworks, enhancing my efficiency and productivity.
+Google Colab's integration with Google Drive and the ability to run Python code in a Jupyter notebook format in the cloud is truly inspiring. It provides an efficient environment for performing data operations, machine learning experiments, and collaborative data analysis. The accessibility and resourcefulness of Google Colab empower me to work on data-intensive tasks without the need for significant local hardware resources.
+ChatGPT has been a valuable resource for me in fixing coding errors and gaining insights into complex programming concepts. Its ability to provide contextual and helpful suggestions aids in problem-solving and learning. The interactive nature of ChatGPT allows me to seek assistance in real-time, making it a dynamic and indispensable tool for refining my coding skills.
+
+3. List top 3 organisations you like to join in your career & why you like these organisations.
+Answer: Three organisations that i like to join in my professional career are Google, IBM and Mircosoft.
+Google is renowned for its commitment to innovation and pushing the boundaries of technology. The company's emphasis on creating products and services that have a global impact resonates with my desire to work on projects that make a significant difference. Google's work culture, focus on creativity, and investment in cutting-edge technologies make it an ideal environment for continuous learning and professional growth.
+IBM's rich history of innovation and its pivotal role in shaping the tech industry make it a compelling choice. The company's commitment to diversity and inclusion is particularly appealing, as it reflects a values-driven approach that fosters a collaborative and inclusive work environment. Additionally, IBM's dedication to addressing real-world challenges through technology aligns with my aspiration to contribute to solutions with a positive societal impact.
+Microsoft's comprehensive technology ecosystem, spanning software, cloud services, and hardware, presents an exciting opportunity for a well-rounded and diverse career. The company's focus on empowering individuals and organizations to achieve more aligns with my belief in the transformative power of technology. Microsoft's inclusive work culture, emphasis on continuous learning, and global reach make it a compelling choice for a dynamic and impactful career.
+
+4. How you position yourself in this industry after 2 years.
+Answer: In two years, I aim to be a highly skilled professional, specializing in areas like machine learning or data science. I plan to have a proven track record of delivering successful projects, actively contribute to the open-source community, and take on leadership roles within my team. My focus on continuous learning and adaptability will ensure my skills remain cutting-edge, and building a strong professional network will contribute to my growth within the industry.
+
+5. List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+Answer: World Coin Currency Detection:
+For this personal project, I developed a deep learning model using CNN, Python, TensorFlow, and Keras. The aim was to predict the face value of coins and currencies, along with identifying the country of origin. I achieved an impressive 86% accuracy on the test data by applying image augmentation techniques. The project successfully classified currencies from 32 different countries across 211 distinct classes. The practical application of this project lies in improving vending machine functionality.
+
+Music Genre Classification:
+As a solo developer, I crafted a machine learning model for automatic music genre classification. Utilizing KNN, Python, Tkinter, Pygame, and NumPy, I created a user-friendly interface to interact with the trained model. The project efficiently processed and analyzed audio files, contributing to enhanced music recommendation systems.
+
+Face Attendance System:
+In another personal endeavor, I delved into computer vision using Python, OpenCV, face-recognition, and Pandas. The result was a robust face recognition system for real-time detection of faces, automating attendance marking with accurate date and time records. This project, with its cutting-edge computer vision techniques, streamlined attendance processes in both educational and industrial settings.
