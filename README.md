@@ -59,3 +59,17 @@ This is a JavaScript script for managing product orders with discount calculatio
 - If the total quantity is over 20, a 10% bulk discount is applied to the entire order.
 - If the total quantity is over 30 and any product has a quantity over 15, a 50% tiered discount is applied to each product exceeding 30 units.
 
+# `task2.txt` file
+
+This file basically contains my thoughts on the following questions:
+
+1. Why do you like to join as a Software developer?
+
+2. List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+3. List top 3 organisations you like to join in your career & why you like these organisations.
+
+4. How you position yourself in this industry after 2 years.
+
+5. List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
