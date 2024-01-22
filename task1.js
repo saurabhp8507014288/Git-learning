@@ -1,3 +1,5 @@
+const prompt=require("prompt-sync")();
+
 class Product {
     constructor(name, price) {
         this.name = name;
